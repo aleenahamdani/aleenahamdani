@@ -1,4 +1,5 @@
 ### Hi there 👋
+My name is Aleena Hamdani. I am an aspiring Bio Scientist currenty pursuing my Masters in Bio Informatics.
 
 <!--
 **aleenahamdani/aleenahamdani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
